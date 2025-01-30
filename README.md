@@ -65,5 +65,5 @@ Feel free to fork this repository and submit pull requests.
 This project is open-source under the MIT License.
 
 ---
-Enjoy the fun facts! 🎉
+Enjoy the fun facts! hehehe 🎉
 
