@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "category": "Science",
+      "fact": "Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible."
+    },
+    {
+      "id": 2,
+      "category": "History",
+      "fact": "Cleopatra lived closer in time to the first moon landing than to the construction of the Great Pyramid of Giza."
+    },
+    {
+      "id": 3,
+      "category": "Animals",
+      "fact": "A group of flamingos is called a 'flamboyance.'"
+    },
+    {
+      "id": 4,
+      "category": "Technology",
+      "fact": "The first 1GB hard drive, introduced in 1980, weighed over 500 pounds."
+    },
+    {
+      "id": 5,
+      "category": "Space",
+      "fact": "Neutron stars are so dense that a single cubic centimeter would weigh about 400 million tons."
+    },
+    {
+      "id": 6,
+      "category": "Geography",
+      "fact": "Canada has the longest coastline of any country in the world, stretching over 202,080 kilometers."
+    },
+    {
+      "id": 7,
+      "category": "Sports",
+      "fact": "The Olympic Games were originally a religious festival in honor of Zeus in ancient Greece."
+    },
+    {
+      "id": 8,
+      "category": "Food",
+      "fact": "The world's most expensive coffee, Kopi Luwak, is made from coffee beans that have been eaten and then excreted by civet cats."
+    },
+    {
+      "id": 9,
+      "category": "Music",
+      "fact": "The world’s largest music festival, Donauinselfest, takes place every year in Austria and attracts over 3 million visitors."
+    },
+    {
+      "id": 10,
+      "category": "Art",
+      "fact": "Vincent van Gogh only sold one painting during his lifetime, 'The Red Vineyard,' which was sold for 400 francs."
+    },
+    {
+      "id": 11,
+      "category": "Physics",
+      "fact": "A photon can travel through a vacuum at 186,282 miles per second, the speed of light."
+    },
+    {
+      "id": 12,
+      "category": "Literature",
+      "fact": "William Shakespeare is credited with inventing over 1,700 words in the English language."
+    },
+    {
+      "id": 13,
+      "category": "Math",
+      "fact": "Zero was first used as a placeholder in ancient Mesopotamia around 3rd century BC."
+    },
+    {
+      "id": 14,
+      "category": "Health",
+      "fact": "Dark chocolate is rich in antioxidants and can improve brain function."
+    },
+    {
+      "id": 15,
+      "category": "Technology",
+      "fact": "The first computer virus, 'Creeper,' was created in 1971 and displayed the message, 'I'm the creeper, catch me if you can!'"
+    },
+    {
+      "id": 16,
+      "category": "Space",
+      "fact": "Saturn’s moon Titan has lakes of liquid methane and ethane on its surface."
+    },
+    {
+      "id": 17,
+      "category": "Movies",
+      "fact": "The longest movie ever made is 'Logistics,' which runs for 35 days, 17 hours, and 22 minutes."
+    },
+    {
+      "id": 18,
+      "category": "History",
+      "fact": "The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes."
+    },
+    {
+      "id": 19,
+      "category": "Nature",
+      "fact": "Bananas are berries, but strawberries are not."
+    },
+    {
+      "id": 20,
+      "category": "Technology",
+      "fact": "More people have access to a mobile phone than to a toilet."
+    }
+  ]
+  

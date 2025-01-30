@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Api</title>
+</head>
+<body>
+    <h3>Press F12 to view the fetched API data from mongodb hehehe...</h3>
+    <div class="category">maths</div>
+    <div class="fact">hehehe</div>
+    <script>
+        const cat = document.querySelector(".category");
+        const fact = document.querySelector(".fact");
+
+        const url = "http://127.0.0.1:8000/api/funfact/";
+
+        async function fetchFun(){
+            const content = await fetch(url);
+            const data = await content.json();
+            console.log(data);
+            
+        }
+
+fetchFun();
+
+    </script>
+</body>
+</html>
